@@ -9,3 +9,8 @@ var emmys = 21
 var gabagool = true
 var italian = true
 var isPeaceful = false 
+
+console.log(capo)
+console.log(gabagool)
+console.log(emmys)
+
